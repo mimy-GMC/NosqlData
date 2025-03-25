@@ -43,6 +43,9 @@ npm run dev
  http://localhost:3000.
 
 8. Routes API
+## Postman
+je l'ai utilisé pour tester mes routes créées.
+
 Profils
 
     GET /api/profiles - Récupérer tous les profils
